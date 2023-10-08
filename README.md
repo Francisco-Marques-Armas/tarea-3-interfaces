@@ -31,21 +31,32 @@ Se comporta de la misma manera pero empieza desde una posición más elevada.
 
 ## Ejercicio 4
 
-![tarea-2-interfaces (2)](https://github.com/Francisco-Marques-Armas/tarea-2-interfaces/assets/72305337/1154108e-4da3-4014-84ad-1891a2eeb18f)
-
+![tarea-3-interfaces (3)](https://github.com/Francisco-Marques-Armas/tarea-3-interfaces/assets/72305337/eb520cf6-7fca-47bd-8b9c-78d9b34e6c33)
 
 ## Ejercicio 5
 
-![tarea-2-interfaces (3)](https://github.com/Francisco-Marques-Armas/tarea-2-interfaces/assets/72305337/35a8641e-5157-4a09-be5d-e64aa8ca5fe1)
+![tarea-3-interfaces (3)](https://github.com/Francisco-Marques-Armas/tarea-3-interfaces/assets/72305337/eb520cf6-7fca-47bd-8b9c-78d9b34e6c33)
 
 ## Ejercicio 6
-
-![tarea-2-interfaces (4)](https://github.com/Francisco-Marques-Armas/tarea-2-interfaces/assets/72305337/7dff6828-cadb-4957-9dd4-151a46340f00)
+![tarea-3-interfaces (4)](https://github.com/Francisco-Marques-Armas/tarea-3-interfaces/assets/72305337/8ccff89e-4bda-4c2d-9ef5-3c53d968f831)
 
 ## Ejercicio 7 
-
-![tarea-2-interfaces (5)](https://github.com/Francisco-Marques-Armas/tarea-2-interfaces/assets/72305337/9661ee7d-5bc0-43a0-b696-8e303069ecf3)
+![tarea-3-interfaces (5)](https://github.com/Francisco-Marques-Armas/tarea-3-interfaces/assets/72305337/dc5ff7cb-c138-4966-859a-0df2beb1ca1c)
 
 ## Ejercicio 8
+![tarea-3-interfaces (6)](https://github.com/Francisco-Marques-Armas/tarea-3-interfaces/assets/72305337/1148721e-3484-406e-bc5e-a7a66bf06bf9)
 
-![tarea-2-interfaces (6)](https://github.com/Francisco-Marques-Armas/tarea-2-interfaces/assets/72305337/eb4ac21e-985f-421f-a95f-9e6d7a919813)
+
+## Ejercicio 9
+![tarea-3-interfaces (7)](https://github.com/Francisco-Marques-Armas/tarea-3-interfaces/assets/72305337/226ae3fd-b84e-49bd-92eb-681f530f31fe)
+
+
+## Ejercicio 10
+![tarea-3-interfaces (8)](https://github.com/Francisco-Marques-Armas/tarea-3-interfaces/assets/72305337/7a845980-bcb2-431f-9f57-4c709a4e2515)
+
+
+## Ejercicio 11
+
+
+## Ejercicio 12
+
