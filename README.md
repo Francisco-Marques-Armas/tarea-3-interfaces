@@ -56,7 +56,18 @@ Se comporta de la misma manera pero empieza desde una posición más elevada.
 
 
 ## Ejercicio 11
-
+![tarea-3-interfaces (9)](https://github.com/Francisco-Marques-Armas/tarea-3-interfaces/assets/72305337/f6f2c927-e497-461d-828f-1872342b6b61)
 
 ## Ejercicio 12
+
+![tarea-3-interfaces (10)](https://github.com/Francisco-Marques-Armas/tarea-3-interfaces/assets/72305337/c858721a-fabf-49e3-8bf8-f7d6ef263f14)
+
+a) Masa 10 veces más que el cilindro
+Mayor fuerza ejercida.
+b) Masa 10 veces inferior al cilindro
+Menor fuerza ejercida.
+c) Esfera cinemática
+La esfera no se ve afectada por el impacto con el cilindro.
+d) Trigger
+Con gravedad, atraviesa el plano. Sin gravedad, no interactúa con el cilindro y este simplemente lo atraviesa.
 
