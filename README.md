@@ -29,6 +29,10 @@ d) La posición del cubo tiene y>0
 
 Se comporta de la misma manera pero empieza desde una posición más elevada.
 
+e) Intercambias el sistema de referencia local con el mundial
+
+Los ejes que se utilizan para el desplazamiento son distintos por lo que se mueve en una dirección distinta.
+
 ## Ejercicio 4
 
 ![tarea-3-interfaces (3)](https://github.com/Francisco-Marques-Armas/tarea-3-interfaces/assets/72305337/eb520cf6-7fca-47bd-8b9c-78d9b34e6c33)
