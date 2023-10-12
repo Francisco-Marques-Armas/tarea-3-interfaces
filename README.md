@@ -82,3 +82,6 @@ d) Trigger
 
 Con gravedad, atraviesa el plano. Sin gravedad, no interactúa con el cilindro y este simplemente lo atraviesa.
 
+e) Doble de fricción
+
+Mayor dificultad al moverse y al iniciar el movimiento con rozamiento estático.
